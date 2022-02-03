@@ -33,3 +33,35 @@ This repository contains the following structure:
 - Design system
 - Final composition
 
+If you want a more detailed view, you can open any of the repository files using `Figma`. 
+
+<br>
+
+
+## Sketching
+
+Getting a first aproximation to the vague idea of a sales site:
+
+![01_sketching](https://user-images.githubusercontent.com/91569646/152446051-2a75d918-c1f1-4e55-9a8c-bf68951cceec.jpg)
+
+> Many projects start simply by drawing a few lines on a blank space.
+
+<br>
+
+
+## User flow
+
+It includes some specifications about the behavior of the different sections and components.
+
+First approximation:
+
+![02_user_flow_a](https://user-images.githubusercontent.com/91569646/152446933-65123ccc-7ca2-4ff9-9257-40db24deac04.jpg)
+
+Second aproximation, with major detail and design elements:
+
+![02_user_flow_b](https://user-images.githubusercontent.com/91569646/152447373-811e2a6b-efed-4563-a7b5-78fa3f99c7bd.jpg)
+
+<br>
+
+
+## Sitemap
