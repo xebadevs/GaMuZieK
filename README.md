@@ -65,3 +65,12 @@ Second aproximation, with major detail and design elements:
 
 
 ## Sitemap
+
+A truly pragmatic overview of the main sections, components and actions of the site:
+
+![03_sitemap](https://user-images.githubusercontent.com/91569646/152447711-eeadb709-ee52-42ca-a8cf-9bcbe98f73b0.jpg)
+
+<br>
+
+
+## Wireframe
