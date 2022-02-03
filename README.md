@@ -74,3 +74,9 @@ A truly pragmatic overview of the main sections, components and actions of the s
 
 
 ## Wireframe
+
+The design begins to take a better and more defined shape.
+
+It is highly recommended and useful to use different grids:
+
+![04_wireframe](https://user-images.githubusercontent.com/91569646/152448431-9e8dd684-0aa8-4c28-80c7-410ccc67936a.jpg)
