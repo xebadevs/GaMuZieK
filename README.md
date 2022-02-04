@@ -94,3 +94,30 @@ Preserving what has already been done in the wireframe, some sections and elemen
 
 
 ## 6. Typography
+
+A well-applied typeface can make a notable difference in quality and reinforce the style and meaning of a project.
+
+Here I expose a comparison, a before and after in different elements.
+
+In later stages there are also some typographical variations:
+
+![06_typography](https://user-images.githubusercontent.com/91569646/152535573-eb365c31-288c-436a-8b7e-4c3177fd1889.jpg)
+
+<br>
+
+
+## 7. Color
+
+As John Sterling said:
+
+> Colors answer feeling in man; shapes answer thought; and motion answers will.
+
+In this case, I defined a palette of primary colors as the first reference of the style.
+
+You will see that the application is minor, but this pushed me later to considerable improvements.
+
+Some examples:
+
+![07_color](https://user-images.githubusercontent.com/91569646/152538392-669e5366-56e0-4821-ac2a-37c8fbb9ff87.jpg)
+
+<br>
