@@ -123,12 +123,33 @@ Some examples:
 <br>
 
 
-## Visual Assets
+## 8. Visual Assets
 
-When I started inserting some images and icons, something didn't feel right, it didn't fit. The colored elements were distant from each other and did not generate any emotional effect.
+When I started inserting some images and icons, something didn't feel right, it didn't fit. The colored elements were distant from each other and did not generate a significant enough emotional effect.
+And buying something is an emotional event!
 
-Taking the color of the minor details to a leading place generated a total change in the style of the project:
+The style ***HAD*** to change.
+
+Bringing the color of the small details to a leading place generated a total change in the style of the project and a much more significant effect:
 
 ![08_visual_assets](https://user-images.githubusercontent.com/91569646/152541245-4115580e-c03a-47d4-8242-5ceeabf3b18d.jpg)
+
+<br>
+
+
+## 9. Motion
+
+To see some motions that I have implemented, you can open the corresponding file using Figma (you just need to create an account, it is free to use).
+
+<br>
+
+
+## 10. Design system
+
+A design system in this context means the modularization of the project: the creation of components based on all the elements: icons, typography, buttons, inputs, containers, backgrounds, colors, etc.
+
+This brings important conveniences and also provides greater consistency to the product:
+
+![10_design_system](https://user-images.githubusercontent.com/91569646/152547450-1fda6444-5392-4e80-9511-84b094f5e03b.jpg)
 
 <br>
