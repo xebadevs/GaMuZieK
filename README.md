@@ -159,6 +159,27 @@ This brings important conveniences and also provides greater consistency to the 
 
 I will take two sections: Start and Confirm products, and show their transformation from the initial to the final state:
 
-![10_5_intermedium](https://user-images.githubusercontent.com/91569646/152552758-0ca0cae2-d807-4f6e-b945-a599e64e0319.jpg)
+![10_5_intermedium](https://user-images.githubusercontent.com/91569646/152611881-ab17b7c7-59b3-46a4-885c-7e59c958ef5a.jpg)
 
 <br>
+
+
+## 11. Final composition
+
+At last, the results of the complete design process.
+
+a) Main section with the differents carousels:
+
+![Main](https://user-images.githubusercontent.com/91569646/152613097-5c52c92f-352e-414f-804c-9ec079c36303.jpg)
+
+<br>
+
+b) Product details (first and second part) / Products ready to be sold / Payment data / Payment Ok / Payment Error
+
+![Product walkthrough](https://user-images.githubusercontent.com/91569646/152613338-5724e35a-8781-4090-996f-21c3e753e7af.jpg)
+
+<br>
+
+c) Menu / Login / Register / Search / Favourites
+
+![Extras](https://user-images.githubusercontent.com/91569646/152613363-ba6f6af1-a7f7-4a3d-a495-f9639fdcba6f.jpg)
