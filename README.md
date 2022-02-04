@@ -153,3 +153,12 @@ This brings important conveniences and also provides greater consistency to the 
 ![10_design_system](https://user-images.githubusercontent.com/91569646/152547450-1fda6444-5392-4e80-9511-84b094f5e03b.jpg)
 
 <br>
+
+
+## 10½. A brief timeline
+
+I will take two sections: Start and Confirm products, and show their transformation from the initial to the final state:
+
+![10_5_intermedium](https://user-images.githubusercontent.com/91569646/152552758-0ca0cae2-d807-4f6e-b945-a599e64e0319.jpg)
+
+<br>
