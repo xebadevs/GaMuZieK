@@ -121,3 +121,14 @@ Some examples:
 ![07_color](https://user-images.githubusercontent.com/91569646/152538392-669e5366-56e0-4821-ac2a-37c8fbb9ff87.jpg)
 
 <br>
+
+
+## Visual Assets
+
+When I started inserting some images and icons, something didn't feel right, it didn't fit. The colored elements were distant from each other and did not generate any emotional effect.
+
+Taking the color of the minor details to a leading place generated a total change in the style of the project:
+
+![08_visual_assets](https://user-images.githubusercontent.com/91569646/152541245-4115580e-c03a-47d4-8242-5ceeabf3b18d.jpg)
+
+<br>
