@@ -38,7 +38,7 @@ If you want a more detailed view, you can open any of the repository files using
 <br>
 
 
-## Sketching
+## 1. Sketching
 
 Getting a first aproximation to the vague idea of a sales site:
 
@@ -49,7 +49,7 @@ Getting a first aproximation to the vague idea of a sales site:
 <br>
 
 
-## User flow
+## 2. User flow
 
 It includes some specifications about the behavior of the different sections and components.
 
@@ -64,19 +64,33 @@ Second aproximation, with major detail and design elements:
 <br>
 
 
-## Sitemap
+## 3. Sitemap
 
 A truly pragmatic overview of the main sections, components and actions of the site:
 
-![03_sitemap](https://user-images.githubusercontent.com/91569646/152447711-eeadb709-ee52-42ca-a8cf-9bcbe98f73b0.jpg)
+![03_sitemap](https://user-images.githubusercontent.com/91569646/152528869-788bb5d4-fe51-4a03-96d2-32af96ba47ed.jpg)
 
 <br>
 
 
-## Wireframe
+## 4. Wireframe
 
 The design begins to take a better and more defined shape.
 
-It is highly recommended and useful to use different grids:
+It is highly recommended and useful to use different grids to put the interior elements and components in a more precise location:
 
 ![04_wireframe](https://user-images.githubusercontent.com/91569646/152448431-9e8dd684-0aa8-4c28-80c7-410ccc67936a.jpg)
+
+<br>
+
+
+## 5. Prototype
+
+Preserving what has already been done in the wireframe, some sections and elements that the website should contain are added:
+
+![05_prototype](https://user-images.githubusercontent.com/91569646/152531201-f0344a8e-5063-494c-bf67-244902b4e0c5.jpg)
+
+<br>
+
+
+## 6. Typography
