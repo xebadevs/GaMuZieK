@@ -55,11 +55,11 @@ It includes some specifications about the behavior of the different sections and
 
 First approximation:
 
-![02_user_flow_a](https://user-images.githubusercontent.com/91569646/152446933-65123ccc-7ca2-4ff9-9257-40db24deac04.jpg)
+![02_user_flow_a](https://user-images.githubusercontent.com/91569646/152526116-c3e91adb-2917-4d5e-9626-1c0494f49d70.jpg)
 
 Second aproximation, with major detail and design elements:
 
-![02_user_flow_b](https://user-images.githubusercontent.com/91569646/152447373-811e2a6b-efed-4563-a7b5-78fa3f99c7bd.jpg)
+![02_user_flow_b](https://user-images.githubusercontent.com/91569646/152528473-856f4417-8f6f-467d-a7ff-6d9c1e919188.jpg)
 
 <br>
 
