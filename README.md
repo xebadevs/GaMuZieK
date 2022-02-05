@@ -183,3 +183,21 @@ b) Product details (first and second part) / Products ready to be sold / Payment
 c) Menu / Login / Register / Search / Favourites
 
 ![Extras](https://user-images.githubusercontent.com/91569646/152613363-ba6f6af1-a7f7-4a3d-a495-f9639fdcba6f.jpg)
+
+<br>
+
+
+## Build With
+
+- `Figma` exclusively.
+
+Extra Tools:
+- `Photoshop` for the portfolio images edition.
+
+<br>
+
+
+
+
+
+![Mockup](https://user-images.githubusercontent.com/91569646/152661282-dfada03a-829b-44c4-9664-8fc0f3c89b72.jpg)
