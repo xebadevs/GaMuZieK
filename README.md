@@ -197,7 +197,21 @@ Extra Tools:
 <br>
 
 
+## Comments
+
+This project has become a conscious way to delve into the origins of a design, following the best recommended practices to obtain a quality product.
+
+It represents for me a highly valuable precedent that I will undoubtedly include in my participation in the following projects.
+
+<br>
 
 
+## License
+
+Distributed under Boost Software License - Version 1.0 - August 17th, 2003. See `LICENSE.txt` for more information.
+
+<br>
+
+See you the next time!
 
 ![Mockup](https://user-images.githubusercontent.com/91569646/152661282-dfada03a-829b-44c4-9664-8fc0f3c89b72.jpg)
