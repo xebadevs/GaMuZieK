@@ -176,7 +176,7 @@ a) Main section with the differents carousels:
 
 b) Product details (first and second part) / Products ready to be sold / Payment data / Payment Ok / Payment Error
 
-![Product walkthrough](https://user-images.githubusercontent.com/91569646/152613338-5724e35a-8781-4090-996f-21c3e753e7af.jpg)
+![Product walkthrough](https://user-images.githubusercontent.com/91569646/152658320-a1a57512-03c4-4529-8283-1cf4b4024b99.jpg)
 
 <br>
 
