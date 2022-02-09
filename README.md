@@ -21,17 +21,17 @@ I'll show the results in chronology order (if you're anxious or just want to see
 
 This repository contains the following structure:
 
-- Sketching
-- User flow
-- Sitemap
-- Wireframe
-- Prototype
-- Typography
-- Color
-- Visual assets
-- Motion
-- Design system
-- Final composition
+1. Setching
+2. User flow
+3. Sitemap
+4. Wireframe
+5. Prototype
+6. Typography
+7. Color
+8. Visual assets
+9. Motion
+10. Design system
+11. Final composition
 
 If you want a more detailed view, you can open any of the repository files using `Figma`. 
 
