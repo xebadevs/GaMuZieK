@@ -168,19 +168,19 @@ I will take two sections: Start and Confirm products, and show their transformat
 
 At last, the results of the complete design process.
 
-a) Main section with the differents carousels:
+*a) Main section with the differents carousels:*
 
 ![Main](https://user-images.githubusercontent.com/91569646/152613097-5c52c92f-352e-414f-804c-9ec079c36303.jpg)
 
 <br>
 
-b) Product details (first and second part) / Products ready to be sold / Payment data / Payment Ok / Payment Error
+*b) Product details (first and second part) / Products ready to be sold / Payment data / Payment Ok / Payment Error*
 
 ![Product walkthrough](https://user-images.githubusercontent.com/91569646/152658320-a1a57512-03c4-4529-8283-1cf4b4024b99.jpg)
 
 <br>
 
-c) Menu / Login / Register / Search / Favourites
+*c) Menu / Login / Register / Search / Favourites*
 
 ![Extras](https://user-images.githubusercontent.com/91569646/152613363-ba6f6af1-a7f7-4a3d-a495-f9639fdcba6f.jpg)
 
