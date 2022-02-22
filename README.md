@@ -176,7 +176,7 @@ At last, the results of the complete design process.
 
 *b) Product details (first and second part) / Products ready to be sold / Payment data / Payment Ok / Payment Error*
 
-![Product walkthrough](https://user-images.githubusercontent.com/91569646/152658320-a1a57512-03c4-4529-8283-1cf4b4024b99.jpg)
+![Product walkthrough](https://user-images.githubusercontent.com/91569646/155047999-ae650448-3317-4f96-bae2-1f573ce35010.jpg)
 
 <br>
 
